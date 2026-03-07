@@ -1,5 +1,6 @@
 # Node.js
 node_modules/
+dist/
 
 # Python
 __pycache__/
@@ -10,3 +11,15 @@ venv/
 # IDE files
 *.vscode/
 *.idea/
+
+# Database
+*.db
+
+# Uploads
+uploads/
+
+# Logs
+*.log
+
+# Poetry
+poetry.lock
